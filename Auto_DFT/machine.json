@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "cluster_name": "",
+      "user": "",
+      "host": "",
+      "port": ,
+      "password": "",
+      "local_work_dir": "", 
+      "remote_work_dir": "",
+      "max_tasks": ,
+      "sub_vasp_file": ""
+    },
+    {
+      "cluster_name": "",
+      "user": "",
+      "host": "",
+      "port": ,
+      "password": "",
+      "local_work_dir": "",
+      "remote_work_dir": "",
+      "max_tasks": ,
+      "sub_vasp_file": ""
+    },
+  ],
+  "poscar_source_dir": "./selected_POSCARs_round_1/",
+  "files_to_copy": ["INCAR", "POTCAR"]
+}
+
