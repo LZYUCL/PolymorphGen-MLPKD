@@ -97,8 +97,7 @@ Carbon emissions can be estimated using the [Machine Learning Impact calculator]
 
 ### Model Architecture and Objective
 
-The model uses a deep-learning neural network to represent the potential energy surface for iridium atoms. The network architecture includes 240*240*240*240*240 hidden irreps.
-
+The model uses a deep-learning neural network to represent the potential energy surface for iridium atoms.
 ### Compute Infrastructure
 
 #### Software
